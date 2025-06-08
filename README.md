@@ -16,5 +16,7 @@ O programa permite adicionar pessoas à fila, atender a próxima pessoa, exibir 
 ![Atender pessoa](Img/atender_fila.png)
 
 Este pequeno projeto foi criado pra faculdade, da matéria Algoritmos e Etruturas de Dados.
+
 Nele consiste em simular uma fila de atendimento utilizando uma estrutuda de dados chamada FILA
+
 Essa estrutura trás o conceito de First in First Out (primeiro a entrar é o primeiro a sair).
