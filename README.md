@@ -11,13 +11,18 @@ O programa permite adicionar pessoas à fila, atender a próxima pessoa, exibir 
 
 ![Mostrar fila](Img/mostrar_fila.png)
 
-(3º PASSO) E por fim, o sistema permite que o primeiro a entrar na fila seja atendido.
+(3º PASSO) O sistema permite que o primeiro a entrar na fila seja atendido e saia da fila
 
 ![Atender pessoa](Img/atender_fila.png)
 
 Nesta parte, o código salva os resultados da fila e armazena dentro de um arquivo .txt.
 
 ![Fila Salva](Img/fila_salva.png)
+
+Após finalizar o programa, os resultados da fila são salvos no .txt. Quando voltar para o programa,
+os resultados da fila antiga estarão salvos.
+
+![Fila Salva_resultado](Img/resultado_fila_salva.png)
 
 
 Este pequeno projeto foi criado pra faculdade, da matéria Algoritmos e Etruturas de Dados.
