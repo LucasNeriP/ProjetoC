@@ -15,9 +15,9 @@ O programa permite adicionar pessoas à fila, atender a próxima pessoa, exibir 
 
 ![Atender pessoa](Img/atender_fila.png)
 
+Nesta parte, o código salva os resultados da fila e armazena dentro de um arquivo .txt.
 
 ![Fila Salva](Img/fila_salva.png)
-
 
 
 Este pequeno projeto foi criado pra faculdade, da matéria Algoritmos e Etruturas de Dados.
